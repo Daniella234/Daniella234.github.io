@@ -1,10 +1,8 @@
 # First Website
  
  Welcome to my first GitHub Website! Here is about my favourite movies:
- 
- #### Favourite Movies:
- 
- #### My favourite movie genres:
+
+ ### My favourite movie genres:
  1. Adventure
  2. Animated
 
