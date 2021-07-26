@@ -1,6 +1,8 @@
 # First Website
  
- Welcome to my first GitHub Website... about dogs! [Click this Link...](https://quickdraw.withgoogle.com/#)
+ Welcome to my first GitHub Website... about dogs! Learn more about me [here](about).
+
+ Also, [click this link](https://quickdraw.withgoogle.com/#)...
 
 ### Here are the top 5 dog breeds:
  1. Labrador Retriever
