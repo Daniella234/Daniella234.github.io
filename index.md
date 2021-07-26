@@ -6,7 +6,7 @@
  1. Adventure
  2. Animated
  
-#### My favourite adevnture movies:
+#### My favourite adventure movies:
  1. Jumanji: Welcome to the Jungle
  2. Junmanji: The Next Level
  3. Dora and The Lost City of Gold
