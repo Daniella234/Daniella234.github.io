@@ -9,6 +9,6 @@
  4. French Bulldog
  5. (English )Bulldog
 
-### Image
+### Images
 ![German Sheperd(left) Golden Retriver(right)](https://www.anythinglabrador.com/wp-content/uploads/2019/05/German-Shepherd-vs-Labrador-Retriever.jpg)
 ![English Bulldog(left) French Bulldog(right)](bulldog.jpg)
